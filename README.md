@@ -16,7 +16,15 @@ As a data scientist and a professional in the GHG emission reporting software in
 
   **Attribution:**
 - 📣 If you use any of my work or findings, please provide appropriate attribution by citing this repository and acknowledging my contributions.
-- 📝 For citation purposes, you can use the following format: [Florian POTHIN, GHG Emission Data Analysis Repository]([[link_to_repository](https://github.com/Flobdp/Working_notebook)])).
+- 📝 For citation purposes, you can use the following format:
+ {[Financial crises](https://github.com/Flobdp/Working_notebook), 
+author = {Florian Pothin}, 
+title = {[GHG Emission Data Analysis Repository,](https://github.com/Flobdp/Working_notebook) 
+year = {2023}, 
+publisher = {GitHub}, 
+journal = {GitHub repository}, 
+howpublished = {https://github.com/flobdp/workin_notebook}, 
+}.
 
 Feel free to explore my data-driven insights, code snippets, and analyses. If you have any questions or would like to collaborate, please reach out. Let's continue our journey towards a greener and more sustainable world! 🌱🤝
 
